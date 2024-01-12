@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.principal {
+  text-align: center;
+  padding: 15px;
+}
+
+.cambiar{
+    padding: 100px;
+}
+
+.image{
+    border : 2px solid white;
+}
+
