@@ -15,6 +15,6 @@ function contarStiker() {
   if (numero4 <= 10) {
     texto.innerHTML = "llevas : " + numero4 + " de stiker";
   } else {
-    texto.innerHTML = "Llevas demaciados stiker";
+    texto.innerHTML = "Llevas demasiados stiker";
   }  
 }

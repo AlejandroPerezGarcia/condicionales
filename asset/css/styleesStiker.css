@@ -25,14 +25,14 @@ h4 {
   padding: 15px;
 }
 
-.h3{
-  padding: 10px;
-}
-
 .button-1{
   width: 200px;
   height: auto;
   padding: 10px;
   background-color: aquamarine;
   color: blue;
+}
+
+.form-control-3, .form-control-2 ,.form-control-1{
+  width: 100% ;
 }
