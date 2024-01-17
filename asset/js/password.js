@@ -19,9 +19,7 @@ function validar() {
   const password1 = 911;
   const password2 = 714;
 
-  let a = digitoA + digitoB + digitoC;
-
- 
+  let a = digitoA + digitoB + digitoC; 
 
   if (password1 == a) {
     console.log(a);
@@ -29,11 +27,7 @@ function validar() {
   } else if (password2 == a) {
     mensaje.innerHTML = codigo2;
   }else {
-     mensaje.innerHTML= codigo3;
-     
+     mensaje.innerHTML= codigo3;     
   }
-
-
-
 };
 
